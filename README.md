@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hrahsrhad</h1>
+<h1 align="center">Hi 👋, I'm Harshad</h1>
 <h3 align="center">Driven and innovative MERN stack developer, crafting seamless and efficient web solutions.</h3>
 
 - 🌱 I’m currently learning **Frameworks, languages**
