@@ -17,7 +17,8 @@
     /* Apply animation to paths */
     .path1, .path2 {
       stroke-dasharray: 0, 100; /* Initially hide the stroke */
-      animation: drawLine 2s ease forwards; /* Apply animation */
+      animation: drawLine 2s ease infinite forwards; /* Apply animation with infinite loop */
+      animation-timing-function: ease-in-out;
     }
 
     /* Add delay for the second path */
@@ -26,3 +27,4 @@
     }
   </style>
 </svg>
+
